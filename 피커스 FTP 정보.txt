@@ -1,0 +1,5 @@
+HOST : 211.253.30.205
+ID : pickus
+Password : pickq1w2e3
+port : 22
+SFTP
